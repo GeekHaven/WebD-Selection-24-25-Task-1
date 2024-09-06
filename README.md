@@ -24,7 +24,7 @@ The journey has 3 phases:
 
 Think of this as the garlic bread of your developer’s dinner. It’s the first thing everyone looks forward to.
 
-1. **Create a private GitHub repository** called `"WebD-Selection-Task-1-IEC2022117"` (naming is everything, folks!).
+1. **Create a private GitHub repository** called `"WebD-Selection-Task-1-{EnrollmentNo}"` (naming is everything, folks!).
 2. Add these coding overlords as collaborators to your repo:
    - **akshayw1** 
    - **0mBudsMan**
