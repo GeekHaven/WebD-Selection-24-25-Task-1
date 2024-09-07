@@ -27,7 +27,7 @@ Think of this as the garlic bread of your developer’s dinner. It’s the first
 1. **Create a private GitHub repository** called `"WebD-Selection-Task-1-{EnrollmentNo}"` (naming is everything, folks!).
 2. Add these coding overlords as collaborators to your repo:
    - **akshayw1** 
-   - **0mBudsMan**
+   - **0mBudsMann**
    - **shashankpatil28** 
    
 3. **Clone** your new shiny repo to your local system and say "Hello, World!" to the code you’ll conquer.
